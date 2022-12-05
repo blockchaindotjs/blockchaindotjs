@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Solidity for Smart Contracts and Blockchain Development.**
 
-- 📫 How to reach me **blockchaindotjs@gmail.com**
+- 📫 How to reach me **yunusarimese@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
