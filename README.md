@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yunus Emre</h1>
+<h1 align="center">Hi, I'm Yunus</h1>
 <h3 align="center">Coding is nice, but searching the "Coding" , that's what I am good at!</h3>
 <img align="right" alt="Coding" width="400" src="http://img.gifmagazine.net/gifmagazine/images/704479/original.gif">
 
