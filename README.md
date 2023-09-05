@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yunus Emre</h1>
-<h3 align="center">Not good at coding, but good at AI using.</h3>
+<h3 align="center">Coding is not my best, but searching the "Coding" , that's what I am good at!</h3>
 <img align="right" alt="Coding" width="400" src="http://img.gifmagazine.net/gifmagazine/images/704479/original.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blockchaindotjs&label=Profile%20views&color=0e75b6&style=flat" alt="blockchaindotjs" /> </p>
